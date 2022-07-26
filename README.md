@@ -1,6 +1,4 @@
-Quiz App that consists of several questions related to different categories like GK,Programming,Operating System,Maths and DBMS.Each category consists of different sets 
-of questions.Each set contains five questions with four options.Each question need to be answered within 10 seconds.After the completion of all questions, score is 
-displayed.Questions are fetched from the FireBase.
+
 ![techquiz](https://user-images.githubusercontent.com/81707749/181025540-1681caaf-c20b-4d43-93fe-f1825ae83654.jpeg)
 ![categories](https://user-images.githubusercontent.com/81707749/181025576-2129e8d1-5928-4b98-aac9-ba86d3baa030.jpeg)
 ![sets](https://user-images.githubusercontent.com/81707749/181025664-9e81f7b4-563e-4070-a563-9170e845dea3.jpeg)
